@@ -1,0 +1,7 @@
+*.ipynb
+*.swp
+__pycache__
+.mypy_cache
+.ipynb_checkpoints
+.vscode
+CHU_fractures
